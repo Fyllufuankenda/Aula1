@@ -1,4 +1,5 @@
-comit inicial
+Introdução Ambiente de Desenvolvimento e Operações(DevOps)
 
+Aula 2 - Aula 2 - Controle de Versão e introdução ao GitHub
 
-Comit final
+Prof.MSc. Ezequiel Muxito
